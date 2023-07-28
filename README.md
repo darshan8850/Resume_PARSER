@@ -17,6 +17,6 @@ The Resume Parser is a Python-based project designed to extract key information 
 
 
 
-##Requirements
+## Requirements
 - Python 3.x
 - re (Regular Expression) module (No additional dependencies required)
