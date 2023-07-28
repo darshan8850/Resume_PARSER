@@ -1,0 +1,71 @@
+{
+    "Name": "Darshan Patil",
+    "Location": "Nagpur; India\nLinkedln ",
+    "Email": "darshanpatil05092001@gmaiLcom",
+    "Mobile": "+919422823922",
+    "Education": {
+        "Institute": "G.H. Raisoni College of Engineering, Nagpur",
+        "Location": "Nagpur; India",
+        "Degree": "Technology in Artificial Intelligence",
+        "Duration": "2020 - 2024"
+    },
+    "TechnicalSkills": {
+        "Languages": [
+            "Python",
+            "t",
+            "JavaScript",
+            "R",
+            "SQL",
+            "HTML",
+            "Tensorflow"
+        ],
+        "Frameworks": [
+            "Flask",
+            "Pytorch",
+            "React",
+            "NLTK",
+            "Django",
+            "OpenCV",
+            "MySQL"
+        ],
+        "Databases": [
+            "Git",
+            "GitHub"
+        ],
+        "DevTools": [
+            "Notebook",
+            "AWS",
+            "Hadoop"
+        ]
+    },
+    "Experience": [
+        {
+            "Title": "Research Intern",
+            "Duration": "Sept 2022 - Feb 2023",
+            "Company": "Curtin University",
+            "Location": "Remote - Malaysia",
+            "Description": "Development ofnew algorithm to accurately segment liver tumors in medical images, enhancing diagnosis and"
+        },
+        {
+            "Title": "treatment planning",
+            "Duration": "Projects Lead",
+            "Company": "Dec 2021 - Present",
+            "Location": "Centre of Excellence in Al and Machine Learning, GHRCE",
+            "Description": "Nagpur India"
+        },
+        {
+            "Title": "Worked on several deep learning and machine learning projects with delivering successful outcomes",
+            "Duration": "Ensuring the adherence to best practices and industry standards in Al and Machine Learning projects as a project",
+            "Company": "lead within a Center of Excellence.",
+            "Location": "Freelancer",
+            "Description": "Aug 2022 - Mar 2023"
+        },
+        {
+            "Title": "Copenhagen Business School",
+            "Duration": "Remote",
+            "Company": "Denmark",
+            "Location": "Offering coding assistance to postdoctoral fellows in Machine Learning and Statistical projects Also helping them",
+            "Description": "with implementation and optimization of their research ideas"
+        }
+    ]
+}
